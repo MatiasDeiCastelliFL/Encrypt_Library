@@ -16,4 +16,4 @@ var descriptPass = async function (pass, password_encriptado) {
     });
 };
 
-module.exports = { hassPass: hassPass, descriptPass: descriptPass };
+module.exports = { hassPass, descriptPass };
