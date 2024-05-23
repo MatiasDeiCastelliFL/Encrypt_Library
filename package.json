@@ -2,7 +2,7 @@
   "name": "encriptar_password",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist-node/index.js",
   "scripts": {
     "build": "babel src -d dist-node "
   },
